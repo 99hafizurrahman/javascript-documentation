@@ -20,9 +20,6 @@ body{
   line-height: 1.3rem;
   font-family: 'Ubuntu', sans-serif;
 }
-#container{
-  margin:auto 0.7rem;
-}
 
 
 
@@ -60,7 +57,7 @@ a{
   padding:1rem;
 }
 
-article,article ul,p,code, article li{
+article,article li,code{
   margin-left:2rem;
   padding:1rem;
   opacity: 0.9;
